@@ -1,8 +1,6 @@
-# React + Vite
+# Morent
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
+<img src='./Desktop.png'/>
 
 To Run this project first run command **npm install**
 To execute the proejct run command **npm run dev**
